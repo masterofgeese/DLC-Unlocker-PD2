@@ -19,6 +19,7 @@ function IsCharacterDLC(dlc_name)
 		"chico",
 		"opera",
 		"wild",
+		"character_pack_jimmy",
 		"ecp",
 		"john_wick_character",
 		}
