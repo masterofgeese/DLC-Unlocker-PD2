@@ -14,6 +14,7 @@ function IsCharacterDLC(dlc_name)
 		"hl_miami",
 		"character_pack_dragan",
 		"character_pack_sokol",
+		"character_pack_jimmy",
 		"hlm2_deluxe",
 		"dragon",
 		"chico",
